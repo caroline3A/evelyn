@@ -1,4 +1,4 @@
-corpo {
-    cor: branco;
-    fundo: preto;
+body {
+    color: white;
+    background: black;
 }
